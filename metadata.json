@@ -1,0 +1,6 @@
+{
+  "name": "Daya's Garba Dash",
+  "description": "Fast-paced rhythm arcade game catching Tapu Sena's flying dandiya sticks with Daya Ben to lively Garba dhol beats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
